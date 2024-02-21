@@ -33,12 +33,6 @@ class trimap_rgb_dep {
  private:
   void find_hair_pixel(cv::Mat &hair);
 
-  // 类的成员变量 m_
-  // static k_
-  // 局部 p_
-  // 全局 g_
-  // 全局静态 g_k_
-
  private:
   cv::Mat m_image;
   cv::Mat m_image_min;
